@@ -13,9 +13,7 @@ To tackle climate change by analyzing Rain falling in Taiwan, Tao-Yuan.
 1. [政府資料開放平台](https://data.gov.tw/dataset/130309), 1960-2017年全臺各縣市雨量網格月平均資料
 """
 
-!pip install -U plotnine mizani numerize pandas
-!pip install numpy
-!pip install mizani
+
 
 # Commented out IPython magic to ensure Python compatibility.
 import numpy as np
